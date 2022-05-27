@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124742416524",
+    "firebase_url": "https://deaffriend2-bef75.firebaseio.com",
+    "project_id": "deaffriend2-bef75",
+    "storage_bucket": "deaffriend2-bef75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124742416524:android:202342ea56f8fea5",
+        "android_client_info": {
+          "package_name": "com.mist.edu.deaffriend2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124742416524-8g8ovdssvt3ls09k0sf4eid3om7p3i1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mist.edu.deaffriend2",
+            "certificate_hash": "6a5a68a1ad2348533893d5088b4f4abded8112ab"
+          }
+        },
+        {
+          "client_id": "124742416524-4juo50h98sgpc6apem969k3acsha5rgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg-KVNuDdUOr_jwqvhgJnnRSb4MphQq-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124742416524-4juo50h98sgpc6apem969k3acsha5rgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
